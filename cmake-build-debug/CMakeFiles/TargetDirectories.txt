@@ -1,3 +1,0 @@
-/Users/zongjianping/Desktop/poj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zongjianping/Desktop/poj/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zongjianping/Desktop/poj/cmake-build-debug/CMakeFiles/poj.dir
